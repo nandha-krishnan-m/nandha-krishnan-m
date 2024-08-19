@@ -1,6 +1,6 @@
 # VLSI Enthusiast
 
-Welcome to my GitHub repository! I'm passionate about VLSI and digital design, and I'm constantly learning and exploring new technologies in this field.
+Welcome to my GitHub repository! I'm passionate about VLSI design and FPGAs, and I'm constantly learning and exploring this field.
 
 ## About Me
 - 👋 Hi, I'm NANDHA KRISHNAN M
@@ -12,9 +12,9 @@ Welcome to my GitHub repository! I'm passionate about VLSI and digital design, a
 ## Skills
 - Verilog HDL
 - Digital Design
-- FPGA Programming (Spartan7, Artix7)
+- FPGA Prototyping (Spartan7, Artix7)
 
 ## Contact
-Feel free to reach out to me if you'd like to collaborate on VLSI projects or discuss anything related to digital design and FPGA development:
+Feel free to reach out to me if you'd like to collaborate on VLSI projects or discuss anything related to VLSI design and FPGA development:
 - LinkedIn: www.linkedin.com/in/nandha-krishnan-m
 - Email: nandhakrishnan004@gmail.com
